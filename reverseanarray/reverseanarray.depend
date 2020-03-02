@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581718991 source:d:\stl\recursion\reverseanarray\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+
